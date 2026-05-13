@@ -7,13 +7,9 @@
 
 ## 🧑‍💻 About Me
 
-I'm an **Information Systems** student at **Universitas Internasional Batam (UIB)**, passionate about building real-world applications in the **F&B** and **Healthcare** domains. I enjoy working across the full stack — from crafting mobile apps with Flutter to building backend systems with Laravel and Flask.
 
-- 🔭 Currently working on **MediBot** (AI-powered medical chatbot) and **Nibble** (restaurant management ecosystem)
-- 🌱 Exploring **Green AI**, energy-efficient deep learning, and RAG architectures
 - 📍 Based in **Batam, Indonesia**
-- ⚡ Fun fact: I once trained 7 deep learning models on CIFAR-10/100 just to measure their energy consumption 🔋
-
+- 🔭 UIB (Universitas Internasional Batam) 
 ---
 
 ## 🚀 Projects
