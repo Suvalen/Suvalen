@@ -1,5 +1,8 @@
-## Hi there 👋
+## About Me
+Based in Batam, Indonesia
+Currently Studying at UIB (Universitas Internasional Batam) 
 
+## 🛠️ Skills & Tech Stack
 <!--
 **Suvalen/Suvalen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
