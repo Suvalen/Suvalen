@@ -1,8 +1,9 @@
-## About Me
+##    About Me
 Based in Batam, Indonesia
 Currently Studying at UIB (Universitas Internasional Batam) 
 
 ## 🛠️ Skills & Tech Stack
+https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white
 <!--
 **Suvalen/Suvalen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
